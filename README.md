@@ -1,2 +1,8 @@
-# -github-final-project
-To host a sample code to calculate simple interest on GitHub in a new repository as the first step in this journey. This will not only host the script, but also follow best practices introduced in the course and create supporting documents for the open source project including a code of conduct, and contribution guidelines.
+# This is the README.md file for the **github-final-project**
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
